@@ -1,4 +1,4 @@
-# 2023-1_Course_CD_Project
+# project-capstone-design
 Capstone Design Lecture Project for 1st semester 2023
 
 # Environment Installation in Seraph
